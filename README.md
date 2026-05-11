@@ -1,4 +1,4 @@
-# AI Cinematic Wuxia Portrait
+# Cinematic Wuxia Portrait
 
 这是一个静态网页项目，用来展示“真人武侠写真定制”作品。
 
