@@ -1,0 +1,1 @@
+Put your WeChat QR code image in this folder and name it wechat-qr.jpg.
