@@ -1,6 +1,6 @@
 # AI Cinematic Wuxia Portrait
 
-这是一个静态网页项目，用来展示“AI 真人武侠写真定制”作品。
+这是一个静态网页项目，用来展示“真人武侠写真定制”作品。
 
 项目只使用普通 HTML、CSS、JavaScript，不需要 React、Vue、Vite 或 Node。可以直接用 VS Code 的 Live Server 运行，也适合上传到 GitHub Pages。
 
@@ -53,20 +53,20 @@ images/work-6.jpg
 ## 如何上传到 GitHub
 
 1. 登录 GitHub，新建一个仓库。
-2. 仓库名可以叫 `ai-wuxia-portrait`。
+2. 仓库名可以叫 `wuxia-portrait`。
 3. 在电脑上打开这个项目文件夹。
 4. 使用 Git 初始化并提交代码：
 
 ```bash
 git init
 git add .
-git commit -m "Create AI wuxia portrait website"
+git commit -m "Create wuxia portrait website"
 ```
 
 5. 按照 GitHub 新仓库页面提示，添加远程仓库并推送：
 
 ```bash
-git remote add origin https://github.com/你的用户名/ai-wuxia-portrait.git
+git remote add origin https://github.com/你的用户名/wuxia-portrait.git
 git branch -M main
 git push -u origin main
 ```
@@ -86,5 +86,5 @@ git push -u origin main
 发布成功后，你的网站地址通常类似：
 
 ```text
-https://你的用户名.github.io/ai-wuxia-portrait/
+https://你的用户名.github.io/wuxia-portrait/
 ```
